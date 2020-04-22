@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="724e8036-97bc-4096-9379-5e0d23150599" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Supermarket-Recommendation-System" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1arrkrNL0Iwtcxxps4H81NtSn8C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowPython Console.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main2.py" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Recommendation System" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Recommendation System" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="E:\Alternative_C\Python3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Recommendation System" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="E:\Alternative_C\Python3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.main2" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="724e8036-97bc-4096-9379-5e0d23150599" name="Default Changelist" comment="" />
+      <created>1587504699417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587504699417</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587548022462">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587548022462" />
+    <state x="423" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587559065048">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="423" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1587559065048" />
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587573189691">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587573189691" />
+    <state x="438" y="72" key="#xdebugger.evaluate" timestamp="1587557022846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="72" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1587557022846" />
+    <state width="1364" height="440" key="DebuggerActiveHint" timestamp="1587572162704">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1364" height="440" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1587572162704" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1587548020520">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587548020520" />
+    <state x="509" y="265" key="Github.CreateGistDialog" timestamp="1587559301752">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="509" y="265" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1587559301752" />
+    <state width="1345" height="268" key="GridCell.Tab.0.bottom" timestamp="1587572749266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="268" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587572749266" />
+    <state width="1345" height="268" key="GridCell.Tab.0.center" timestamp="1587572749266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="268" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587572749266" />
+    <state width="1345" height="268" key="GridCell.Tab.0.left" timestamp="1587572749266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="268" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587572749266" />
+    <state width="1345" height="268" key="GridCell.Tab.0.right" timestamp="1587572749266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="268" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587572749266" />
+    <state width="1345" height="268" key="GridCell.Tab.1.bottom" timestamp="1587572749266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="268" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587572749266" />
+    <state width="1345" height="268" key="GridCell.Tab.1.center" timestamp="1587572749266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="268" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587572749266" />
+    <state width="1345" height="268" key="GridCell.Tab.1.left" timestamp="1587572749266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="268" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587572749266" />
+    <state width="1345" height="268" key="GridCell.Tab.1.right" timestamp="1587572749266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="268" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587572749266" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1587579001690">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587579001690" />
+    <state x="390" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1587568555844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587568555844" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587557398875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587557398875" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
